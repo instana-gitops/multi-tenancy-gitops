@@ -27,6 +27,8 @@ spec:
               license:
                 accept: true
                 license: L-RJON-BZFQU2
+              requestIbmServices:
+                licensing: true
               mqDashboard: true
               version: "2021.2.1"
               replicas: 2
